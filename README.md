@@ -1,8 +1,8 @@
 # GTA VI: Still Waiting — a make.fun meme entry
 
-[![Play on make.fun](https://make.fun/api/competitions/gta6-meme-x-01/badge.svg)](https://make.fun/c/gta6-meme-x-01?ref=fs66msvv)
-[![make.fun competition](https://make.fun/api/badges/competition.svg)](https://make.fun/c/gta6-meme-x-01?ref=fs66msvv)
-[![Built for make.fun](https://make.fun/api/badges/built-for.svg)](https://make.fun?ref=fs66msvv)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/nekomatarin-hub/gta6-still-waiting/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/nekomatarin-hub/gta6-still-waiting/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 The meme is a post on X:
 **https://x.com/nachoneko_muse/status/2124054357947855182**
